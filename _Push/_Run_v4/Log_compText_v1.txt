@@ -1,0 +1,2 @@
+./text_a.xml,./text_b.xml
+./text_c1.xml,./text_c2.xml
